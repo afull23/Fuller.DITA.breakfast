@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Fire">
+    <title>In Case of a Fire...</title>
+    <taskbody>
+        <context>This task will teach you how to respond in case there is a fire while cooking
+            breakfast. There are five other men in the apartment, so we need to be sure that we look
+            out for their best interest, and quickly put out the fire if there is one.<p audience="armando">Armando,
+                since you have a bit less experience in the kitchen, leave the overhead vent on for
+                the entirety of your cooking time on the stove.</p></context>
+        <steps>
+            <step>
+                <cmd><u>Place</u> the frying pan immediately in the sink if possible</cmd>
+                <info>If the fire is concentrated, you should be able to put it out in the sink
+                    without much trouble. There will be a good amount of smoke, so go immediately to
+                    the kitchen window, switch the lock latch, and lift.</info>
+            </step>
+            <step>
+                <cmd><u> Turn</u> the faucet on right away, and try and disperse the water over the
+                    fire.</cmd>
+            </step>
+            <step>
+                <cmd><u>Retrieve</u> the fire blanket from the closet immediately outside the
+                    kitchen if the fire gets too large</cmd>
+                <info>The apartment does not have a fire extinguisher, but Ryan does have a fire
+                    blanket. This should be large enough to cover a traditional kitchen fire.</info>
+            </step>
+            <step>
+                <cmd><u>Throw</u> the fire blanket atop the fire, encompassing the flame</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

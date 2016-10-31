@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Oatmeal">
+    <title>How To Make Maple Brown Sugar Oatmeal </title>
+    <taskbody>
+        <prereq>This task will teach you how to make a delicious serving of homemade oatmeal to
+            pair with your omelet. <p><u>Ingredients/Tools</u>:</p><ul id="ul_zpx_5xt_sx">
+                <li>1¾ Cup of water</li>
+                <li>Pinch of salt</li>
+                <li>1 Cup + 2 tbsp Quaker Oats</li>
+                <li>½ tbsp of half and half</li>
+                <li audience="mom">1 tbsp honey</li>
+                <li>1 tablespoon of water</li>
+                <li>1½ tbsp brown sugar</li>
+                <li>⅓ Cup of chopped pecan halves </li>
+                <li>2 Heaping Teaspoons of mini chocolate chips</li>
+                <li>Pinch of cinnamon for sprinkling, optional</li>
+                <li>Medium sized Pot</li>
+            </ul><ol id="ol_hwz_ll2_tx">
+                <li><u>Bring</u> the water and salt to a boil in medium sized pot </li>
+                <li><u>Add</u> the oats and reduce the heat to medium heat. Cook for 5 minutes,
+                    stirring occasionally. Once the oats are done cooking, remove from the heat</li>
+                <li><u>Stir</u> in the half and half, maple syrup and brown sugar with a wooden
+                    spoon</li>
+                <li><u>Dish</u> the oatmeal into individual serving bowl</li>
+                <li><u>Top</u> each bowl of oatmeal with pecans and chocolate chips. Then sprinkle
+                    with cinnamon, if desired</li>
+                <li audience="mom"><u>Drizzle</u> honey atop the oatmeal for added sweetness<fig
+                        id="fig_rdf_kmh_tx">
+                        <title>Oatmeal Final Product</title>
+                        <image href="Screen%20Shot%202016-10-27%20at%2011.19.13%20AM.png"
+                            id="image_lgq_cqg_5x"/>
+                    </fig></li>
+            </ol></prereq>
+    </taskbody>
+</task>

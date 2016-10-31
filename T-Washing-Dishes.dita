@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Washing">
+    <title>Washing Dishes</title>
+    <taskbody>
+        <prereq>This task will teach you how to properly wash dishes, and where to find the proper
+            tools to execute this task.<p>
+                <note audience="mom">Mom, please disregard this entire task. You have done enough dishes for me to
+                    last a lifetime.</note>
+            </p><p><u>Tools</u>:</p><ul id="ul_zpx_5xt_sx">
+                <li>Sponge</li>
+                <li>Tide Detergent Pods</li>
+            </ul><ul id="ul_lrd_j5l_tx">
+                <li>Dirty Dishes</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd><u>Collect</u> all of the dirty dishes that you have used in the process of
+                    making this delicious breakfast.</cmd>
+            </step>
+            <step>
+                <cmd><u>Scrape</u> excess food and scraps from each individual dish into the trash
+                    can</cmd>
+                <info>This step is extremely important, because no large chunks of food can go into
+                    the drain.<note type="important"><b><i>The sink does not have a garbage
+                                disposal, so if too much food accumulates in the disposal, it will
+                                clog and you will have to go in there with your hand an scoop out
+                                the gunk.</i></b></note></info>
+            </step>
+            <step>
+                <cmd><u>Place</u> all appropriately sized dishes into the dishwasher</cmd>
+                <substeps id="substeps_hnc_mwl_tx">
+                    <substep>
+                        <cmd>Place drinking glasses and irregular cooking utensils (like spatulas)
+                            onto the top rack of the dishwasher</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place plates, normal utensils, other larger dishes onto the bottom rack
+                            of the dishwasher</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><u>Close</u> the dishwasher door and flip the lock mechanism to the right
+                </cmd>
+            </step>
+            <step>
+                <cmd><u>Rotate</u> the black knob clockwise to the setting that reads "Quick
+                    Wash"</cmd>
+            </step>
+            <step>
+                <cmd>Once the dishes are finished and have fully dried, <u>place</u> them back in
+                    their original cabinets and cubbies</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

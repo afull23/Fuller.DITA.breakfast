@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Omelet">
+    <title>How To Make a Classic Omelet with Spinach</title>
+    <taskbody>
+        <prereq>This task will teach you how to cook a classic ham and cheese omellete with
+                    spinach.<p><u>Ingredients/Tools</u>:</p><ul id="ul_zpx_5xt_sx">
+                <li>2 cups tightly packed curly- or flat-leaf spinach, trimmed and washed (3
+                    ounces)</li>
+                <li audience="mom">2 large eggs</li>
+                <li>Salt and Pepper</li>
+                <li audience="mom">1 teaspoon unsalted butter</li>
+                <li>1 tablespoon of water</li>
+                <li audience="mom">2 tablespoons Mexican Cheese Blend</li>
+                <li audience="mom">2 slices deli ham</li>
+                <li>Nonstick Skillet</li>
+                <li>Medium Sized Bowl</li>
+                <li audience="armando">6 ounces (1/2 package) extra-firm tofu</li>
+                <li audience="armando">1/3 cup soy milk </li>
+                <li audience="armando">1 tablespoon brown rice flour</li>
+                <li audience="armando">1 tablespoon cornstarch</li>
+                <li audience="armando">Magic Bullet</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd><u>Heat</u> 1 tablespoon of water in a nonstick skillet over medium-high</cmd>
+            </step>
+            <step>
+                <cmd><u>Add</u>spinach to the pan and toss until wilted</cmd>
+                <info>
+                    <fig id="fig_jfh_wcc_tx">
+                        <title>Cooking Spinach<image
+                                href="Screen%20Shot%202016-10-26%20at%205.09.41%20PM.png"
+                                id="image_ky4_f5g_5x"/></title>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><u>Move</u> spinach to a colander to drain and remove moisture</cmd>
+                <info>
+                    <fig id="fig_h1p_xcc_tx">
+                        <title>Spinach Draining<image
+                                href="Screen%20Shot%202016-10-26%20at%205.10.09%20PM.png"
+                                id="image_upt_g5g_5x"/></title>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><u>Chop</u> drained spinach, and transfer to a medium sized bowl with the 2
+                    large cracked eggs</cmd>
+            </step>
+            <step audience="armando">
+                <cmd><u>Remove</u> tofu from package - draining all liquid. Place block on stacked
+                    paper towels. Gently press down on it with additional paper towels to remove
+                    excess liquid. Cut tofu into 5 or 6 blender-friendly pieces.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd><u>Place</u> all vegan egg base ingredients in magic bullet and pulse until
+                    smooth. Tilt container to see if batter will slowly flow, and pour into the
+                    medium sized bowl with the spinach</cmd>
+            </step>
+            <step>
+                <cmd><u>Whisk</u>, and add the salt and pepper while stirring</cmd>
+            </step>
+            <step audience="mom">
+                <cmd><u>Return</u> skillet to heat and melt butter, tilting to coat pan</cmd>
+            </step>
+            <step>
+                <cmd><u>Add</u> egg mixture, cook, stirring with a heatproof rubber spatula until
+                    eggs begin to thicken for about 30 seconds </cmd>
+            </step>
+            <step>
+                <cmd><u>Pull</u> edges of omelet in toward center with the spatula, tilting pan so
+                    uncooked eggs flow underneath. Cook until just set, 15 to 30 seconds</cmd>
+            </step>
+            <step audience="mom">
+                <cmd><u>Arrange</u> cheese and ham on top of omelet. With spatula, fold omelet in
+                    half. Transfer to a plate and serve immediately</cmd>
+                <info audience="mom">
+                    <fig id="finishedproductmom">
+                        <title>Finished Product<image
+                                href="Screen%20Shot%202016-10-26%20at%205.36.59%20PM.png"
+                                id="image_dcz_h5g_5x"/></title>
+                    </fig>
+                </info>
+                <info audience="armando">
+                    <fig id="finishedproductarmando">
+                        <title>Finished Product<image href="3002.jpg" id="image_izn_35g_5x"
+                            /></title>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

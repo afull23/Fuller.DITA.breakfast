@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Croissant">
+    <title>How To Make a Chocolate Croissant</title>
+    <taskbody>
+        <prereq>This task will teach you how to bake a delicious chocolate croissant, one of my
+            personal favorite breakfast treats.<p><u>Ingredients</u>:</p><ul id="ul_zpx_5xt_sx">
+                <li>1 Can Pillsbury Crescent Dinner Rolls</li>
+                <li>½ Cup of mini, semi-sweet chocolate chips</li>
+                <li audience="mom">Bacon bits</li>
+            </ul><p>Heat oven to . Separate dough into 8 triangles.</p></prereq>
+        <steps>
+            <step>
+                <cmd><u>Heat</u> oven to 350°F, seperate dough into 8 triangles</cmd>
+                <info>
+                    <fig id="fig_rx3_1tl_tx">
+                        <title>Divide into Triangles</title>
+                        <image href="13f4e91f-83af-49c6-a100-a95ae6e62496.jpg" id="image_ip5_fqg_5x"
+                        />
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><u>Place</u> tablespoon of chocolate chips on wide end of each triangle</cmd>
+            </step>
+            <step>
+                <cmd>
+                    <u>Roll</u> up, starting at shortest side of triangle, rolling to opposite
+                    point. Place on ungreased cookie sheet.</cmd>
+                <info>
+                    <fig id="fig_nqb_ttl_tx">
+                        <title>Chocolate Chip Distribution</title>
+                        <image href="c58f6a32-f27f-48f6-b9fd-35e24f620325.jpg" id="image_qkn_gqg_5x"
+                        />
+                    </fig>
+                </info>
+            </step>
+            <step audience="mom">
+                <cmd><u>Sprinkle</u> bacon bits atop the croissants</cmd>
+            </step>
+            <step>
+                <cmd><u>Bake</u> at 350°F. for 15 to 20 minutes or until golden brown</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

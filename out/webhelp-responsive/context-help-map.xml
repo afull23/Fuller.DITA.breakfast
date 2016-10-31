@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Introduction" path="C-Introduction.html"/>
+   <appContext helpID="ProteinSmoothie" path="T-Strawberry-Protein-Smoothie.html"/>
+   <appContext helpID="Omelet" path="T-Classic-Omelet.html"/>
+   <appContext helpID="Oatmeal" path="T-Maple-Oatmeal.html"/>
+   <appContext helpID="Croissant" path="T-Chocolate-Croissant.html"/>
+   <appContext helpID="Washing" path="T-Washing-Dishes.html"/>
+   <appContext helpID="Fire" path="T-Fire.html"/>
+   <appContext helpID="WorksCited" path="C-Works-Cited.html"/>
+</map>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ProteinSmoothie">
+    <title>How To Make a Protein Smoothie</title>
+    <taskbody>
+        <prereq>This task will teach you how to make a Strawberry Vanilla protein
+                    smoothie.<p><u>Ingredients/Tools</u>:</p><ul id="ul_zpx_5xt_sx">
+                <li>4 scoops of vanilla whey protein</li>
+                <li>1 cup of water</li>
+                <li>1 cup of strawberry Greek Yogurt </li>
+                <li audience="armando">1 cup of apple sauce</li>
+                <li>3 cups of frozen strawberries</li>
+                <li>1 cup of ice</li>
+                <li>Magic Bullet Blender</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd><u>Pour</u> each individual ingredient into the magic bullet's clear plastic
+                    pitcher one at a time.</cmd>
+                <info>The Magic Bullet is a high powered blender, and should be used carefully.<note
+                        type="caution">Be sure that the blender is unplugged and unhooked while
+                        pouring ingredients. The blade spins very fast and could cause injury if not monitored.<p>
+                            <fig id="fig_uqc_14b_tx">
+                                <title>Magic Bullet Blender<image
+                                        href="1edde5a4-aba5-4145-a63f-746419ea6eef_1.016ef0df40e0b9f68558ba08cb7bef49.jpeg"
+                                        width="200" height="200" id="image_svz_wpg_5x"/></title>
+                            </fig>
+                        </p></note></info>
+            </step>
+            <step>
+                <cmd><u>Twist</u> on the lid of the Magic Bullet until sealed tight</cmd>
+            </step>
+            <step>
+                <cmd><u>Flip</u> the pitcher upside-down so that the lid aligns with the rim atop
+                    the Magic Bullet logo.</cmd>
+            </step>
+            <step>
+                <cmd><u>Push</u> the pitcher down into the base and <u>hold</u> until the drink is
+                    smooth enough to drink with a straw</cmd>
+            </step>
+            <step>
+                <cmd><u>Remove</u> the pitcher from the base, and flip it back upright</cmd>
+            </step>
+            <step>
+                <cmd><u>Enjoy!</u></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

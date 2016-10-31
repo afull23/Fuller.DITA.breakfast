@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Introduction">
+ <title>Breakfast at Foxridge 10000 <wintitle audience="armando">Breakfast at Home for
+   Armando</wintitle></title>
+ <shortdesc>These tasks will instruct you in how to make different breakfast foods based on the
+  tools and ingredients availible at the apartment. Since you will be in the apartment often, I want
+  to be sure that you have all of the tools and directions you need to make a great, healthy
+  breakfast.</shortdesc>
+ <conbody>
+  <p>Recipe List: </p>
+  <p><i>Protein Smoothie</i></p>
+  <p><i audience="mom"> Classic Ham and Cheese Omelet</i></p>
+  <p><i audience="armando"> Classic Vegan Omelet</i></p>
+  <p><i> Maple Brown Sugar Oatmeal with Fruit</i></p>
+  <p><i> Chocolate Croissant</i></p>
+  <p> Other Tasks:</p>
+  <p><i>Washing Dishes</i></p>
+  <p><i>What To Do In Case of a Fire</i></p>
+  <p> </p>
+  <p> </p>
+ </conbody>
+</concept>

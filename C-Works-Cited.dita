@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="WorksCited">
+ <title>Works Cited</title>
+ <shortdesc>A collection of all sources used in both Maps.</shortdesc>
+ <conbody>
+  <ul>
+  <li>Strawberry Protein Smoothie
+   <xref href="http://www.bodybuilding.com/fun/proteinshakes.htm" format="html"></xref> </li>
+</ul>
+   
+    
+   <ul> <li>Vegan Egg-Free Omelet <xref href="http://www.mrbreakfast.com/superdisplay.asp?recipeid=3002"
+     format="html"/>
+   </li></ul>
+
+
+<ul>
+ 
+  <li>Green Eggs and Ham Omelet
+    <xref href="http://www.marthastewart.com/344874/green-eggs-and-ham-omelet"
+    format="html"></xref>
+  </li></ul>
+  
+  
+    <ul>
+     <li>Homemade Maple Brown Sugar Oatmeal
+     <xref href="http://www.thisgalcooks.com/maple-brown-sugar-oatmeal/"
+      format="html"></xref>
+    </li> </ul>
+  
+  <ul>
+   <li>Chocolate Filled Crescents
+    <xref href="https://www.pillsbury.com/recipes/chocolate-filled-crescents/06a754a3-a0dc-41b9-b3a4-119e91249c74"
+     format="html"></xref>
+   </li> </ul>
+ 
+ </conbody>
+ 
+</concept>

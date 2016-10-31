@@ -1,0 +1,1 @@
+var contextIds = {"Introduction":"C-Introduction.html","ProteinSmoothie":"T-Strawberry-Protein-Smoothie.html","Omelet":"T-Classic-Omelet.html","Oatmeal":"T-Maple-Oatmeal.html","Croissant":"T-Chocolate-Croissant.html","Washing":"T-Washing-Dishes.html","Fire":"T-Fire.html","WorksCited":"C-Works-Cited.html"}
